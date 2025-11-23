@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there, I'm <strong>Nermine Fekih</strong> 👋</h1>
+<h1 align="center"> Hi there, I'm <strong>Nermine Fekih</strong> </h1>
 
 <h3 align="center">Computer Engineering Student | IoT & Embedded Systems | Mobile Development | Cybersecurity Enthusiast</h3>
 
@@ -12,7 +12,7 @@
 
 ---
 
-### 🌟 About Me
+###  About Me
 
 - 👀 Interests:  
   **IoT & Embedded Systems (ESP32, Arduino)** • **Flutter Mobile Apps** • **AI & Intelligent Automation**  
@@ -31,7 +31,7 @@
   **LinkedIn:** https://www.linkedin.com/in/nerminefekih-2124f  
   **GitHub:** https://github.com/Nermine-1
 
-- ⚡ Fun fact:  
+-  Fun fact:  
   *Curiosity, creativity, and persistence fuel everything I build.* ✨
 
 ---
