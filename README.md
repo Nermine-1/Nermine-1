@@ -6,7 +6,7 @@
 🔹 Always learning, experimenting, and creating
 </p>
 
-👀 About Me
+<b> About Me</b>
 
 Interests:
 IoT & Embedded Systems (ESP32, Arduino) • Flutter Mobile Apps • AI & Intelligent Automation
@@ -17,8 +17,7 @@ Cloud Deployment & Edge Computing • Advanced Flutter Architecture
 Open to collaborate on:
 Smart IoT Systems • Mobile Apps w/ Real-Time Data • AI + IoT (AIoT)
 Cloud Dashboards and Monitoring Solutions
-Fun fact:
-Curiosity, creativity, and persistence fuel everything I build. ✨
+
 
 ---
 
@@ -97,13 +96,6 @@ Curiosity, creativity, and persistence fuel everything I build. ✨
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nermine-1&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
 
 ## 📫 Connect With Me
 
