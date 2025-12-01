@@ -1,47 +1,24 @@
-<div align="center">
-
-# 👋 Hi there, I'm **Nermine Fekih**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;IoT+%26+Embedded+Systems+Developer;Flutter+Mobile+Developer;Cybersecurity+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-
+<h1 align="center">Hi there, I'm <strong>Nermine Fekih</strong> 👋</h1>
+<h3 align="center">Computer Engineering Student | IoT & Embedded Systems | Mobile Development | Cybersecurity Enthusiast</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nermine-1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Nermine-1?label=Followers&style=social" alt="followers" />
+🔹 Passionate about building <strong>smart, secure, and connected systems</strong> that bridge hardware & software
+<br>
+🔹 Always learning, experimenting, and creating
 </p>
 
-### 🔹 Passionate about building **smart, secure, and connected systems** that bridge hardware & software
-### 🔹 Always learning, experimenting, and creating
+👀 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
----
-
-## 🚀 About Me
-
-```typescript
-const nermine = {
-    pronouns: "she/her",
-    location: "Tunisia 🇹🇳",
-    education: "Computer Engineering Student",
-    interests: [
-        "IoT & Embedded Systems (ESP32, Arduino)",
-        "Flutter Mobile Development",
-        "AI & Intelligent Automation",
-        "Cloud Computing & APIs",
-        "Cybersecurity & CTF Challenges",
-        "Tech Communities & Hackathons"
-    ],
-    currentlyLearning: [
-        "IoT Security (Wi-Fi, BLE & Firmware Hardening)",
-        "AI Model Integration in IoT",
-        "Cloud Deployment & Edge Computing",
-        "Advanced Flutter Architecture"
-    ],
-    funFact: "Curiosity, creativity, and persistence fuel everything I build ✨"
-};
-```
+Interests:
+IoT & Embedded Systems (ESP32, Arduino) • Flutter Mobile Apps • AI & Intelligent Automation
+Cloud Computing (APIs, Serverless) • Cybersecurity & CTFs • Tech Communities & Hackathons
+Currently learning:
+IoT Security (Wi-Fi, BLE & Firmware Hardening) • AI Model Integration in IoT
+Cloud Deployment & Edge Computing • Advanced Flutter Architecture
+Open to collaborate on:
+Smart IoT Systems • Mobile Apps w/ Real-Time Data • AI + IoT (AIoT)
+Cloud Dashboards and Monitoring Solutions
+Fun fact:
+Curiosity, creativity, and persistence fuel everything I build. ✨
 
 ---
 
