@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <strong>Nermine Fekih</strong> 👋</h1>
+<h1 align="center">Hi there, I'm <strong>Nermine Fekih</strong> </h1>
 <h3 align="center">Computer Engineering Student | IoT & Embedded Systems | Mobile Development | Cybersecurity Enthusiast</h3>
 <p align="center">
 🔹 Passionate about building <strong>smart, secure, and connected systems</strong> that bridge hardware & software
